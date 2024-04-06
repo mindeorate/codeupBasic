@@ -1,10 +1,11 @@
 # codeupBasic
 for the schoolwork. It's just homework ,which I have to finish
 학교에서 과제용으로 풀어보라고 한 문제를 푼 것을 증명 및 다른 이들에게 공유하기 위해 만든 레포지토리입니다.
+(사실 해설도 하려고하다가 포기했습니다..)
 
 # how to check
 you just need to check the number and go to file which named that number
-찾고 싶은 문제의 번호가있는 폴더에 제가 찾은 해답을 적어놓았습니다.
+찾고 싶은 문제의 번호가있는 폴더에 제가 구한 해답을 적어놓았습니다.
 
 # *important thing*
 this repogitory is literally for my schoolwork.
